@@ -1,0 +1,3 @@
+# Automate e-mail/sms/dropbox/google ...
+many IT services can be handled via scripts, often API's are available which can be used to automate or shedule tasks
+These scripts can be used to send updates/results of certain processes
